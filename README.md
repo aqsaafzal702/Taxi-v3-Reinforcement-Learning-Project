@@ -1,4 +1,9 @@
 # Taxi-v3-Reinforcement-Learning-Project
+## About This Project
+This project was completed as part of the [Reinforcement Learning with Gymnasium in Python](https://www.datacamp.com) course on DataCamp. 
+
+## Certification
+I have completed the Reinforcement Learning with Gymnasium in Python course on DataCamp. You can find the course completion certificate [here](link to the PDF in this repository).
 
 This project involves training a reinforcement learning agent to navigate the Taxi-v3 environment using Q-learning. The goal is for the taxi to pick up passengers and drop them off at their destinations in the shortest possible time, minimizing penalties for illegal actions.
 
