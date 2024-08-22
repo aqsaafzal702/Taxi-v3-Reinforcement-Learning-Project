@@ -1,6 +1,6 @@
 # Taxi-v3-Reinforcement-Learning-Project
 ## About This Project
-This project was completed as part of the [Reinforcement Learning with Gymnasium in Python](https://www.datacamp.com) course on DataCamp. 
+This project was completed as part of the Reinforcement Learning with Gymnasium in Python (https://www.datacamp.com) course on DataCamp. 
 
 ## Certification
 I have completed the Reinforcement Learning with Gymnasium in Python course on DataCamp. You can find the course completion certificate [here](link to the PDF in this repository).
